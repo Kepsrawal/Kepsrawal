@@ -3,36 +3,42 @@
 <h3 align="center">Frontend Developer | React.js Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
-  Passionate about building modern, responsive and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications;Open+to+Work"/>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Kepsrawal">
-    <img src="https://komarev.com/ghpvc/?username=Kepsrawal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
+<a href="https://komarev.com/ghpvc/?username=Kepsrawal">
+<img src="https://komarev.com/ghpvc/?username=Kepsrawal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 💻 Frontend Developer
-- ⚛️ Learning React.js & Modern Web Development
-- 🌱 Currently improving JavaScript & React Skills
-- 🎯 Looking for Frontend Developer Opportunities
-- 📍 Rajasthan, India
+💻 Frontend Developer passionate about building modern, responsive and user-friendly web applications.
+
+⚛️ Skilled in HTML, CSS, JavaScript, React.js, Bootstrap and Vite.
+
+🌱 Currently learning Advanced React.js, Tailwind CSS and Next.js.
+
+🎯 Looking for Frontend Developer opportunities.
+
+📍 Rajasthan, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,git,github,vscode"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -44,7 +50,7 @@
 
 ---
 
-## 💻 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -54,58 +60,115 @@
 
 ---
 
-## 🚀 Live Projects
+# 🏆 GitHub Trophies
 
-### 🏨 Royal Stay Hotel
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kepsrawal&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Royal Stay Hotel
 
 🔗 https://royal-stay-hotel.netlify.app/
 
-Built using HTML, CSS, JavaScript & React.js.
+Modern hotel booking website built using React.js, HTML, CSS and JavaScript.
 
 ---
 
-### 💍 Suvarna Jewels
+## 💍 Suvarna Jewels
 
 🔗 https://suvarna-jewels.netlify.app/
 
-Luxury Jewellery Website built with React.js.
+Luxury jewellery website with modern responsive UI.
 
 ---
 
-### 👨‍💻 Personal Portfolio
+## 👨‍💻 Personal Portfolio
 
 🔗 https://bespoke-palmier-e394fe.netlify.app/
 
-Responsive Portfolio Website showcasing my skills and projects.
+Personal portfolio showcasing my frontend projects and skills.
 
 ---
 
-## 🌐 Connect with Me
+# 🌱 Currently Learning
+
+- Advanced React.js
+- Tailwind CSS
+- Next.js
+- Node.js
+
+---
+
+# 🎯 Goals
+
+✅ Master React.js
+
+✅ Learn Next.js
+
+✅ Build 20+ Real Projects
+
+✅ Get Frontend Developer Job
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kalpesh-rawal-99648841b">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:kepskepsrawal@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/Kepsrawal">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- 📧 Email: **kepskepsrawal@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/kalpesh-rawal-99648841b**
-- 🐙 GitHub: **https://github.com/Kepsrawal**
+📧 Email : **kepskepsrawal@gmail.com**
+
+📱 Phone : **+91 6367072253**
+
+💼 LinkedIn :
+https://www.linkedin.com/in/kalpesh-rawal-99648841b
+
+🐙 GitHub :
+https://github.com/Kepsrawal
 
 ---
 
-⭐ Thanks for visiting my profile! If you like my work, don't forget to star my repositories.
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kepsrawal&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>
