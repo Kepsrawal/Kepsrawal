@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=Kepsrawal">
 <img src="https://komarev.com/ghpvc/?username=Kepsrawal&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</a>
 </p>
 
 ---
@@ -33,38 +31,6 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,git,github,vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kepsrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Kepsrawal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kepsrawal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kepsrawal&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -122,21 +88,15 @@ Personal portfolio showcasing my frontend projects and skills.
 <p align="center">
 
 <a href="https://www.linkedin.com/in/kalpesh-rawal-99648841b">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:kepskepsrawal@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://github.com/Kepsrawal">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 </p>
@@ -145,14 +105,14 @@ Personal portfolio showcasing my frontend projects and skills.
 
 # 📫 Contact
 
-📧 Email : **kepskepsrawal@gmail.com**
+📧 Email: **kepskepsrawal@gmail.com**
 
-📱 Phone : **+91 6367072253**
+📱 Phone: **+91 6367072253**
 
-💼 LinkedIn :
+💼 LinkedIn:  
 https://www.linkedin.com/in/kalpesh-rawal-99648841b
 
-🐙 GitHub :
+🐙 GitHub:  
 https://github.com/Kepsrawal
 
 ---
