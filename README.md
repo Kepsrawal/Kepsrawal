@@ -1,16 +1,18 @@
-## Hi there 👋
+# Kalpesh Rawal
 
-<!--
-**Kepsrawal/Kepsrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Git • GitHub
+
+## Live Projects
+
+-   Royal Stay Hotel - https://royal-stay-hotel.netlify.app/
+-   Suvarna Jewels - https://suvarna-jewels.netlify.app/
+-   Portfolio - https://bespoke-palmier-e394fe.netlify.app/
+
+## Contact
+
+-   Email: kepskepsrawal@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/kalpesh-rawal-99648841b
