@@ -54,13 +54,7 @@ Luxury jewellery website with modern responsive UI.
 
 ---
 
-## 👨‍💻 Personal Portfolio
 
-🔗 https://bespoke-palmier-e394fe.netlify.app/
-
-Personal portfolio showcasing my frontend projects and skills.
-
----
 
 # 🌱 Currently Learning
 
