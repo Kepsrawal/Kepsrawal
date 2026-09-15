@@ -46,14 +46,6 @@ Modern hotel booking website built using React.js, HTML, CSS and JavaScript.
 
 ---
 
-## 💍 Suvarna Jewels
-
-🔗 https://suvarna-jewels.netlify.app/
-
-Luxury jewellery website with modern responsive UI.
-
----
-
 
 
 # 🌱 Currently Learning
